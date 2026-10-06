@@ -47,3 +47,4 @@ Luego visita `http://localhost:3000`.
 - 3 vidas con invencibilidad temporal al reaparecer (parpadeo)
 - Asteroides se parten en fragmentos más pequeños al ser destruidos
 - Partículas de explosión al destruir asteroides
+- Escudo: en cada nivel un asteroide al azar (resaltado en cian) suelta un power-up `S`; al recogerlo la nave tiene escudo 7 s que absorbe un impacto
